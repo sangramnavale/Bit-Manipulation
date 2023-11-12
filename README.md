@@ -4,3 +4,4 @@
 2. Swap two numbers without using a temporary variable
 3. Detect if two integers have opposite signs
 4. Check if two numbers are equal or not
+5. Minimum Bit Flips to Convert a Number
